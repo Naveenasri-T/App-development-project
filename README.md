@@ -16,10 +16,4 @@ To run the app on your local machine, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Naveenasri-T/bmi-calculator.git
-  Navigate to the project directory: cd bmi-calculator
-  Install the required dependencies: npm install
-  Run the project: npm start
-  Screenshots
-  ![image](https://github.com/user-attachments/assets/4712c4ef-06f1-4f84-a51f-0f8fedac108b)
-
-  
+ 
